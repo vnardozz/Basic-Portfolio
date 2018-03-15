@@ -1,0 +1,77 @@
+body {
+    margin: auto;
+    height: 500px;
+    overflow: auto;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.title {
+    width: 100%;
+    background-color: white;
+    margin-top: -30px;
+}
+
+button {
+    font-size: 20px;
+    background-color: white;
+}
+
+.container {
+    float: left;
+    margin: auto;
+    width: 960px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 15%;
+    font-size: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    line-height: 1.7;
+    padding: 10px;
+}
+
+#profile-pic {
+    float: left;
+    clear: both;
+    height: 300px;
+    width: 250px;
+    margin: 10px;
+}
+
+#menu {
+    left: 1000px;
+    font-size: 30px;
+    display: inline;
+    float: right;
+    margin-top: -40px;
+    margin-right: 10px;
+}
+
+h1 {
+    width: 200px;
+    background-color: #4aaaa5;
+    padding: 40px;
+    margin-bottom: 0;
+    margin-left: 15%;
+    color: white;
+    font-size: 26px;
+}
+
+.headings {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 35px;
+    color: #4aaaa5;
+}
+
+#footer {
+    border: solid #4aaaa5;
+    position: fixed;
+    left: -3px;
+    bottom: -5px;
+    width: 100%;
+    padding: 10px;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
